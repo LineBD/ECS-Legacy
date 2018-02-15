@@ -45,7 +45,6 @@
     <Compile Include="ECS.cs" />
     <Compile Include="Heater.cs" />
     <Compile Include="IHeater.cs" />
-    <Compile Include="ITempSensor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TempSensor.cs" />
   </ItemGroup>

@@ -4,7 +4,7 @@
     {
         public static void Main(string[] args)
         {
-            var ecs = new ECS(28);
+            var ecs = new ECS(25);
 
             ecs.Regulate();
 
